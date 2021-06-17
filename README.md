@@ -1,4 +1,5 @@
 # Angular Enterprise Example
+## This repo used to clone in Agulacia CLI as basic example of an Angular enterprise application
 ### Running
 
 In one window:
